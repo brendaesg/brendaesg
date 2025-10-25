@@ -6,7 +6,7 @@
   <div align="center">
     ୨୧
   </div>
-  ──── Desenvolvedora Front-End ────
+  ──── Desenvolvedora Junior Front-End ────
 </div>
 
 <div align="center">

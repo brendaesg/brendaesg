@@ -10,7 +10,8 @@
 </div>
 
 <div align="center">
-  Oi, sou a Brenda Eising, tenho 20 anos e sou de Blumenau, Santa Catarina. Concluí o curso técnico em JAVA pelo Entra21 e estou cursando Ciência da Computação na FURB. Atualmente estou estudando HTML, CSS, JavaScript, Typescript e Frameworks como React, Angular e Spring. Sou apaixonada por tecnologia, design, café e gatinhos! 𓂃🖊
+  Oi, sou a Brenda Eising, tenho 20 anos e sou de Blumenau, Santa Catarina. Concluí o curso técnico em JAVA pelo Entra21. 
+  Atualmente estou estudando HTML, CSS, JavaScript, Typescript e Frameworks como React, Angular e Spring. Sou apaixonada por tecnologia, design, café e gatinhos! 𓂃🖊
 </div>
 
 <div align="center">
